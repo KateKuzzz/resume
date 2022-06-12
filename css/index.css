@@ -1,0 +1,52 @@
+body {
+    background-color: rgba(157, 146, 106, 0.796);
+    font-size: 14px;
+    line-height: 22px;
+ 
+}
+img {
+    border-radius: 60%;
+}
+
+
+.resume {
+    display: flex;
+    grid-template-columns: 1fr 1fr;
+}
+.name {
+    border:  10px solid rgb(144, 135, 103);
+    margin: 0;
+    margin-left: 25px;
+    margin-bottom: 45px;
+
+}
+.resume_aboutMe {
+    margin-left: 25px;
+    margin-right: 10px;
+}
+
+li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+.class_resume_about{
+    width: 400;
+}
+.QA {
+    margin-left: 25px;
+}
+.resume_summary{
+    margin-top: 95px;
+}
+.resume_left{
+    border:  10px solid rgb(144, 135, 103) ;
+    padding: 10px 10px 10px 10px;
+}
+.resume_aboutMe2{
+    border:  10px solid rgb(144, 135, 103);
+    margin-left: 25px;
+}
+
+
+
